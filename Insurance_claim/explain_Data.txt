@@ -1,0 +1,39 @@
+months_as_customer:Thời gian khách hàng đã là khách hàng của công ty bảo hiểm.
+age: Tuổi của khách hàng (người mua bảo hiểm).
+policy_number: Số hợp đồng bảo hiểm.
+policy_bind_date: Ngày ký kết hợp đồng bảo hiểm.
+policy_state: Bang hoặc khu vực mà hợp đồng bảo hiểm được phát hành.
+policy_csl: Giới hạn bảo hiểm theo điều khoản của hợp đồng (CSL: Combined Single Limit, giới hạn tổng hợp duy nhất).
+policy_deductable: Số tiền khách hàng phải tự chi trả trước khi công ty bảo hiểm thanh toán cho yêu cầu bồi thường.
+policy_annual_premium: Phí bảo hiểm hàng năm.
+umbrella_limit: Giới hạn trách nhiệm bảo hiểm (bảo hiểm dư) đối với tổn thất vượt quá các giới hạn khác.
+insured_zip: Mã bưu điện của khách hàng (người được bảo hiểm).
+insured_sex: Giới tính của khách hàng.
+insured_education_level: Trình độ học vấn của khách hàng.
+insured_occupation: Nghề nghiệp của khách hàng.
+insured_hobbies: Sở thích của khách hàng.
+insured_relationship: Quan hệ của khách hàng trong hộ gia đình (ví dụ: chồng, vợ, con cái).
+capital-gains: Lợi nhuận từ vốn (khoản tiền thu được từ việc bán tài sản).
+capital-loss: Lỗ vốn (khoản lỗ từ việc bán tài sản).
+incident_date: Ngày xảy ra sự cố.
+incident_type: Loại sự cố (ví dụ: trộm cắp, đâm va, v.v.).
+collision_type: Loại va chạm (ví dụ: va từ phía sau, va chéo góc, v.v.).
+incident_severity: Mức độ nghiêm trọng của sự cố (ví dụ: nhẹ, trung bình, nghiêm trọng).
+authorities_contacted: Cơ quan có thẩm quyền đã được liên hệ (cảnh sát, cứu thương, v.v.).
+incident_state: Bang hoặc khu vực nơi sự cố xảy ra.
+incident_city: Thành phố nơi xảy ra sự cố.
+incident_location: Vị trí cụ thể của sự cố (đường phố, giao lộ, v.v.).
+incident_hour_of_the_day: Giờ trong ngày khi sự cố xảy ra.
+number_of_vehicles_involved: Số lượng phương tiện liên quan đến sự cố.
+property_damage: Có xảy ra hư hại về tài sản hay không (Yes/No).
+bodily_injuries: Số lượng người bị thương.
+witnesses: Số lượng nhân chứng.
+police_report_available: Báo cáo của cảnh sát có sẵn hay không (Yes/No).
+total_claim_amount: Tổng số tiền yêu cầu bồi thường.
+injury_claim: Số tiền yêu cầu bồi thường cho thương tích.
+property_claim: Số tiền yêu cầu bồi thường cho hư hại tài sản.
+vehicle_claim: Số tiền yêu cầu bồi thường cho phương tiện.
+auto_make: Hãng sản xuất xe (Toyota, Honda, v.v.).
+auto_model: Mẫu xe (Camry, Accord, v.v.).
+auto_year: Năm sản xuất xe.
+fraud_reported: Có báo cáo gian lận hay không (Yes/No).
